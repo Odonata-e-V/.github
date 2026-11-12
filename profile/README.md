@@ -2,7 +2,7 @@
 
 **Student-led aircraft development at the intersection of aerodynamics, energy efficiency and autonomous flight.**
 
-[Website](https://hpa-odonata.de/) · [Projects](#projects) · [Contact](#contact)
+[Website](https://hpa-odonata.de/) · [Projects](#projects) · [Contact](mailto:info@hpa-odonata.de)
 
 ---
 
